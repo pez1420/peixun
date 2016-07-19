@@ -1,1 +1,15 @@
 http://www.weixueyuan.net/view/6316.html
+String、StringBuilder、StringBuffer区别
+
+Java中类定义
+类(抽象类)：内部类、静态内部类
+接口
+注解
+
+
+[public|default|private] abstract static final [Class]
+
+
+字段表示  = 作用域 + 静态|非静态 + 可变性 + 并发可见性(有序性) + 是否可序列化 + 数据类型 + 字段名称 + 其他属性
+
+内部类、抽象类、接口是Java面向对象的高级部分，掌握这些知识有助于加深对Java的理解
