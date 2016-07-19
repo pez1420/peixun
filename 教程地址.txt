@@ -1,4 +1,7 @@
 http://www.weixueyuan.net/view/6316.html
+
+http://www.cnblogs.com/dolphin0520/p/3769804.html
+
 String、StringBuilder、StringBuffer区别
 
 Java中类定义
